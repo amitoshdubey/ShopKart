@@ -1,0 +1,8 @@
+Welcome to Shopkart
+This is an extremely time saving and money saving app
+by which you can order eatables and drinks from your
+phone for delivery at your doorstep.
+It is very easy to use. Just open it and go to shopping
+mode after giving your account information. Then select
+the items that you want to buy.
+Final Bill will be generated and shown to you.
